@@ -1,7 +1,9 @@
 # 🌸 Welcome to my little corner of GitHub!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FCE4EF,50:EDE3F8,100:DFF0E3&height=200&section=header&text=Lizzie's%20World&fontSize=65&fontColor=B77D9D&fontFamily=Comic%20Sans%20MS&fontAlignY=50" width="100%" alt="Lizzie's World" />
+  <img src="./images/header.png"
+       width="100%"
+       alt="Lizzie's World - pastel pixel art world" />
 </p>
 
 <p align="center">
