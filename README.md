@@ -39,11 +39,11 @@ Currently exploring:
 <details>
 <summary>🌷 A little more about my journey...</summary>
 
-I started out working in IT support, helping people solve technical problems across different systems and devices.
+I started my IT journey working with children at a coding club, after a lot of self learning I'm now working in IT support, helping people solve technical problems across different systems and devices.
 
 Alongside that, I've been developing my technical skills through hands-on projects, experimenting with Linux, cybersecurity tools, Python and local AI models.
 
-I particularly enjoy understanding how things work rather than just following instructions.
+I love understanding how things work and how can I improve them.
 
 </details>
 
